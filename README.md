@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishnavi Dhole
 - 🌆 I belongs to Maharashtra
-- 🧑‍🎓 Pursuring Btech in Computer Science
+- 🧑‍🎓 Pursuing Btech in Computer Science
 - 👀 I’m quite interested in Development
 - 🌱 I’m currently learning Wordpress and Javascript.
 - 💞️ I’m looking to collaborate on minor projects.
